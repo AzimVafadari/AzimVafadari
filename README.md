@@ -1,24 +1,7 @@
-<h1 style="background-color: purple; color: white;">Hi, I'm [Your Name]</h1>
-
-## Education
-
-- Degree: [Your degree]
-- University: [Name of your university]
-- Year: [Year of graduation]
-
-## Contact
-
-- Email: [Your email address]
-- LinkedIn: [Link to your LinkedIn profile]
-- Twitter: [Link to your Twitter profile]
-
-## Fun Fact
-
-[Add an interesting or fun fact about yourself.]
-
-Feel free to reach out to connect or collaborate!
-
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **AzimVafadari/AzimVafadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
