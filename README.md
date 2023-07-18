@@ -1,4 +1,5 @@
-<p style="color: purple">Hi, I'm Azim Vafadari</p>
+<span style="color: purple;">Hi, I'm Azim Vafadari</span>
+
 <!--
 **AzimVafadari/AzimVafadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
