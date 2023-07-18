@@ -1,26 +1,4 @@
-# Hi, I'm [Your Name]
-
-[Add a brief introduction about yourself and your areas of interest.]
-
-## Projects
-
-### Project 1
-
-[Provide a brief description of your project. You can include technologies used, features, and any notable achievements or outcomes.]
-
-Repository: [Link to your project repository]
-
-### Project 2
-
-[Provide a brief description of another project.]
-
-Repository: [Link to your project repository]
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
+<h1 style="background-color: purple; color: white;">Hi, I'm [Your Name]</h1>
 
 ## Education
 
