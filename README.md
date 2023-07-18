@@ -21,6 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" **alt="Php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **AzimVafadari/AzimVafadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
