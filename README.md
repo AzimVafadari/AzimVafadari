@@ -2,8 +2,8 @@
 <p>
 - 🔭 I’m currently Bachelor's student at
 <a href="www.yazd.ac.ir">Yazd University</a>
-- 🌱 I’m currently learning front-end
   .</p>
+  <p>- 🌱 I’m currently learning front-end</p>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
