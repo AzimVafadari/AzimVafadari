@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EC04&background=18761E00&width=435&lines=Hi%2C+I'm+Azim+Vafadari)](https://git.io/typing-svg)
+<p>I'm Bachelor's student at </p>
+<a href="www.yazd.ac.ir">Yazd University</a>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
