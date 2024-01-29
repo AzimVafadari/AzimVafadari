@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EC04&background=18761E00&width=435&lines=Hi%2C+I'm+Azim+Vafadari)](https://git.io/typing-svg)
 <p>
 - 🔭 I’m currently Bachelor's student at
-<a href="yazd.ac.ir">Yazd University</a>
+<a href="https://yazd.ac.ir">Yazd University</a>
   .</p>
   <p>- 🌱 I’m currently learning front-end</p>
 :hammer_and_wrench: Languages and Tools :
