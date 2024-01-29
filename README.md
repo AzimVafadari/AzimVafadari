@@ -3,7 +3,7 @@
 - 🔭 I’m currently Bachelor's student at
 <a href="https://yazd.ac.ir">Yazd University</a>
   .</p>
-  <p>- 🌱 I’m currently learning front-end</p>
+  <p>- 🌱 I’m currently learning backend</p>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
